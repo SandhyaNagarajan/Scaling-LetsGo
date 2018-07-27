@@ -21,4 +21,4 @@ The purpose is to take a Data Engineering pipeline to product level prototype.
 # Proposed Architecture:
 
 The following figure shows the proposed improvement to the exisitng pipeline:
-![Screenshot] (Architecture.png)
+![Screenshot](Architecture.png)
