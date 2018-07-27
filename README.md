@@ -1,2 +1,15 @@
 # Scaling-LetsGo
 Insight Data Science- 3 Week Sprint project.
+# Project Idea:
+The idea is to enable autoscaling and adding security by monitoring the user and other metrics thtat could help scaling to already exisitng DE project LetsGo.
+LetsGo is designed to help the people to decide the transportation means to travel to their respective destination.
+# Purpose: 
+The purpose is to take a Data Engineering pipeline to product level prototype.
+# Exisitng Data pipeline:
+![alt text](https://raw.githubusercontent.com/Aditi1692/LetsGo/master/architecture.png)
+# Technologies Suited for the challenge:
+Pegasus/Terraform : IaC
+AutoScaling: AWS autoscaling group
+StressTesting: Bee's machine gun
+Monitoring: Sumo Logic
+# Proposed Architecture:
